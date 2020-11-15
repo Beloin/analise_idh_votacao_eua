@@ -1,0 +1,350 @@
+,state,candidate,party,total_state
+0,Delaware,Joe Biden,DEM,296268
+1,Delaware,Donald Trump,REP,200603
+2,Delaware,Jo Jorgensen,LIB,5000
+3,Delaware,Howie Hawkins,GRN,2139
+12,District of Columbia,Joe Biden,DEM,285728
+13,District of Columbia,Donald Trump,REP,16306
+14,District of Columbia, Write-ins,WRI,2647
+15,District of Columbia,Howie Hawkins,GRN,1493
+16,District of Columbia,Jo Jorgensen,LIB,1695
+17,District of Columbia,Gloria La Riva,PSL,726
+18,District of Columbia,Brock Pierce,IND,595
+68,Florida,Joe Biden,DEM,5294767
+69,Florida,Donald Trump,REP,5667474
+70,Florida,Jo Jorgensen,LIB,70249
+71,Florida, Write-ins,WRI,12479
+72,Florida,Howie Hawkins,GRN,14707
+73,Florida,Gloria La Riva,PSL,5709
+74,Florida,Rocky De La Fuente,ALI,5964
+75,Florida,Don Blankenship,CST,4097
+590,Georgia,Donald Trump,REP,2458010
+591,Georgia,Joe Biden,DEM,2472182
+592,Georgia,Jo Jorgensen,LIB,62060
+596,Georgia, Write-ins,WRI,457
+1086,Hawaii,Joe Biden,DEM,366070
+1087,Hawaii,Donald Trump,REP,196800
+1088,Hawaii,Jo Jorgensen,LIB,5538
+1089,Hawaii,Howie Hawkins,GRN,3819
+1090,Hawaii,Brock Pierce,IND,1183
+1091,Hawaii,Don Blankenship,CST,931
+1110,Idaho,Donald Trump,REP,554128
+1111,Idaho,Joe Biden,DEM,287031
+1112,Idaho,Jo Jorgensen,LIB,16404
+1113,Idaho,Kanye West,IND,3632
+1114,Idaho,Brock Pierce,IND,2808
+1115,Idaho,Don Blankenship,CST,1886
+1116,Idaho,Rocky De La Fuente,ALI,1491
+1124,Idaho, Write-ins,WRI,745
+1431,Illinois,Donald Trump,REP,2788357
+1432,Illinois,Joe Biden,DEM,4148322
+1433,Illinois,Jo Jorgensen,LIB,74388
+1434,Illinois,Howie Hawkins,GRN,35289
+1435,Illinois, Write-ins,WRI,5371
+1436,Illinois,Brian Carroll,ASP,10830
+1437,Illinois,Gloria La Riva,PSL,9173
+2152,Indiana,Donald Trump,REP,1729101
+2153,Indiana,Joe Biden,DEM,1241496
+2154,Indiana,Jo Jorgensen,LIB,58862
+2155,Indiana, Write-ins,WRI,5139
+2484,Iowa,Donald Trump,REP,897149
+2485,Iowa,Joe Biden,DEM,758416
+2486,Iowa,Jo Jorgensen,LIB,19698
+2487,Iowa,Brock Pierce,IND,551
+2488,Iowa,Kanye West,IND,3201
+2489,Iowa,Rocky De La Fuente,ALI,1079
+2490,Iowa, Write-ins,WRI,1860
+2491,Iowa,Don Blankenship,CST,2302
+2492,Iowa,Howie Hawkins,GRN,3069
+2493,Iowa,Ricki Sue King,OTH,546
+3412,Kansas,Donald Trump,REP,753370
+3413,Kansas,Joe Biden,DEM,551199
+3414,Kansas,Jo Jorgensen,LIB,29470
+3415,Kansas, Write-ins,WRI,291
+3744,Kentucky,Donald Trump,REP,1326347
+3745,Kentucky,Joe Biden,DEM,772223
+3746,Kentucky,Jo Jorgensen,LIB,26212
+3747,Kentucky,Kanye West,IND,6556
+3748,Kentucky,Brock Pierce,IND,3626
+3749,Kentucky, Write-ins,WRI,229
+4368,Louisiana,Donald Trump,REP,1255776
+4369,Louisiana,Joe Biden,DEM,856034
+4370,Louisiana,Jo Jorgensen,LIB,21645
+4371,Louisiana,Kanye West,IND,4897
+4372,Louisiana,Brian Carroll,ASP,2497
+4373,Louisiana,Jade Simmons,IND,1626
+4374,Louisiana,Don Blankenship,CST,860
+4375,Louisiana,President Boddie,IND,1125
+4376,Louisiana,Bill Hammons,UTY,662
+4377,Louisiana,Tom Hoefling,LLC,668
+4378,Louisiana,Brock Pierce,IND,749
+4379,Louisiana,Gloria La Riva,PSL,987
+4380,Louisiana,Alyson Kennedy,SWP,536
+5200,Maine,Donald Trump,REP,341949
+5201,Maine,Joe Biden,DEM,420357
+5202,Maine, Write-ins,WRI,1557
+5203,Maine,Jo Jorgensen,LIB,13402
+5204,Maine,Howie Hawkins,GRN,7877
+5205,Maine,Rocky De La Fuente,ALI,1195
+8188,Maryland,Donald Trump,REP,951519
+8189,Maryland,Joe Biden,DEM,1872183
+8190,Maryland,Jo Jorgensen,LIB,31868
+8191,Maryland,Howie Hawkins,GRN,14820
+8192,Maryland,Jerome Segal,BAR,5538
+8308,Massachusetts,Joe Biden,DEM,2271849
+8309,Massachusetts,Donald Trump,REP,1131115
+8310,Massachusetts,Jo Jorgensen,LIB,45098
+8311,Massachusetts,Howie Hawkins,GRN,17850
+8312,Massachusetts, Write-ins,WRI,16495
+10063,Michigan,Donald Trump,REP,2648576
+10064,Michigan,Joe Biden,DEM,2795975
+10065,Michigan,Jo Jorgensen,LIB,60411
+10066,Michigan,Don Blankenship,CST,7323
+10067,Michigan,Howie Hawkins,GRN,13707
+10068,Michigan,Rocky De La Fuente,ALI,2992
+10069,Michigan, Write-ins,WRI,4255
+10621,Minnesota,Donald Trump,REP,1485345
+10622,Minnesota,Joe Biden,DEM,1718739
+10623,Minnesota,Jo Jorgensen,LIB,34988
+10624,Minnesota,Howie Hawkins,GRN,10074
+10625,Minnesota,Brock Pierce,IND,5661
+10626,Minnesota,Kanye West,IND,7946
+10627,Minnesota,Rocky De La Fuente,ALI,5615
+10628,Minnesota,Alyson Kennedy,SWP,664
+10629,Minnesota,Gloria La Riva,PSL,1222
+10673,Minnesota, Write-ins,WRI,2233
+11436,Mississippi,Joe Biden,DEM,473057
+11437,Mississippi,Donald Trump,REP,705894
+11438,Mississippi,Kanye West,IND,3441
+11439,Mississippi,Jo Jorgensen,LIB,7571
+11440,Mississippi,Phil Collins,PRO,1228
+11441,Mississippi,Howie Hawkins,GRN,1425
+11442,Mississippi,Brian Carroll,ASP,1087
+11443,Mississippi,Don Blankenship,CST,1223
+11444,Mississippi,Brock Pierce,IND,633
+11445,Mississippi, Write-ins,WRI,1594
+12256,Missouri,Donald Trump,REP,1711848
+12257,Missouri,Joe Biden,DEM,1242851
+12258,Missouri,Jo Jorgensen,LIB,40932
+12259,Missouri,Howie Hawkins,GRN,8246
+12260,Missouri, Write-ins,WRI,2545
+12261,Missouri,Don Blankenship,CST,3894
+12893,Montana,Donald Trump,REP,343590
+12894,Montana,Joe Biden,DEM,244783
+12895,Montana,Jo Jorgensen,LIB,15255
+12896,Montana, Write-ins,WRI,2110
+13114,Nebraska,Donald Trump,REP,553781
+13115,Nebraska,Joe Biden,DEM,371918
+13116,Nebraska,Jo Jorgensen,LIB,20109
+13171,Nebraska, Write-ins,WRI,448
+13399,Nevada,Donald Trump,REP,640677
+13400,Nevada,Joe Biden,DEM,675224
+13401,Nevada,Jo Jorgensen,LIB,14120
+13402,Nevada, None of these candidates,NON,13513
+13403,Nevada,Don Blankenship,CST,2980
+13484,New Hampshire,Donald Trump,REP,365660
+13485,New Hampshire,Joe Biden,DEM,424937
+13486,New Hampshire,Jo Jorgensen,LIB,13236
+13487,New Hampshire, Write-ins,WRI,620
+14432,New Jersey,Joe Biden,DEM,2389584
+14433,New Jersey,Donald Trump,REP,1733217
+14434,New Jersey,Jo Jorgensen,LIB,28950
+14435,New Jersey, Write-ins,WRI,12320
+14436,New Jersey,Howie Hawkins,GRN,12808
+14437,New Jersey,Gloria La Riva,PSL,2565
+14438,New Jersey,Bill Hammons,UTY,3063
+14439,New Jersey,Don Blankenship,CST,2684
+14440,New Jersey,Rocky De La Fuente,ALI,2477
+14619,New Mexico,Joe Biden,DEM,499688
+14620,New Mexico,Donald Trump,REP,401343
+14621,New Mexico,Jo Jorgensen,LIB,12529
+14622,New Mexico,Howie Hawkins,GRN,4407
+14623,New Mexico,Sheila Samm Tittle,CST,1798
+14624,New Mexico,Gloria La Riva,PSL,1633
+14817,New York,Joe Biden,DEM,3754965
+14818,New York,Donald Trump,REP,2868445
+14819,New York,Jo Jorgensen,LIB,48535
+14820,New York,Howie Hawkins,GRN,23842
+14821,New York,Brock Pierce,IND,17973
+14822,New York, Write-ins,WRI,6576
+15152,North Carolina,Donald Trump,REP,2754822
+15153,North Carolina,Joe Biden,DEM,2681124
+15154,North Carolina,Jo Jorgensen,LIB,48576
+15155,North Carolina,Howie Hawkins,GRN,12153
+15156,North Carolina,Don Blankenship,CST,7530
+15157,North Carolina, Write-ins,WRI,9035
+15744,North Dakota,Donald Trump,REP,235585
+15745,North Dakota,Joe Biden,DEM,114901
+15746,North Dakota,Jo Jorgensen,LIB,9393
+15747,North Dakota, Write-ins,WRI,1929
+15956,Ohio,Donald Trump,REP,3074400
+15957,Ohio,Joe Biden,DEM,2603677
+15958,Ohio,Jo Jorgensen,LIB,65069
+15959,Ohio,Howie Hawkins,GRN,18046
+15968,Ohio, Write-ins,WRI,3395
+16352,Oklahoma,Donald Trump,REP,1020280
+16353,Oklahoma,Joe Biden,DEM,503890
+16354,Oklahoma,Jo Jorgensen,LIB,24731
+16355,Oklahoma,Kanye West,IND,5597
+16356,Oklahoma,Jade Simmons,IND,3654
+16357,Oklahoma,Brock Pierce,IND,2547
+16814,Oregon,Donald Trump,REP,951868
+16815,Oregon,Joe Biden,DEM,1333012
+16816,Oregon,Jo Jorgensen,LIB,41113
+16817,Oregon, Write-ins,WRI,14148
+16818,Oregon,Howie Hawkins,GRN,11711
+16819,Oregon,Dario Hunter,PRG,4936
+17027,Pennsylvania,Donald Trump,REP,3349801
+17028,Pennsylvania,Joe Biden,DEM,3412806
+17029,Pennsylvania,Jo Jorgensen,LIB,78598
+17033,Pennsylvania, Write-ins,WRI,7427
+17243,Rhode Island,Joe Biden,DEM,306192
+17244,Rhode Island,Donald Trump,REP,199830
+17245,Rhode Island,Jo Jorgensen,LIB,5047
+17246,Rhode Island,Rocky De La Fuente,ALI,923
+17247,Rhode Island,Gloria La Riva,PSL,843
+17248,Rhode Island,Brian Carroll,ASP,767
+17477,South Carolina,Donald Trump,REP,1385103
+17478,South Carolina,Joe Biden,DEM,1091541
+17479,South Carolina,Jo Jorgensen,LIB,27916
+17480,South Carolina,Howie Hawkins,GRN,6907
+17481,South Carolina,Rocky De La Fuente,ALI,1862
+17707,South Dakota,Donald Trump,REP,261043
+17708,South Dakota,Joe Biden,DEM,150471
+17709,South Dakota,Jo Jorgensen,LIB,11095
+17905,Tennessee,Donald Trump,REP,1849820
+17906,Tennessee,Joe Biden,DEM,1139376
+17907,Tennessee,Jo Jorgensen,LIB,29812
+17908,Tennessee,Kanye West,IND,10258
+17909,Tennessee,Don Blankenship,CST,5350
+17910,Tennessee,Howie Hawkins,GRN,4532
+17911,Tennessee,Alyson Kennedy,SWP,2571
+17912,Tennessee,Gloria La Riva,PSL,2294
+17913,Tennessee,Rocky De La Fuente,ALI,1836
+17953,Tennessee, Write-ins,WRI,3665
+18778,Texas,Donald Trump,REP,5866019
+18779,Texas,Joe Biden,DEM,5218943
+18780,Texas,Jo Jorgensen,LIB,125291
+18781,Texas,Howie Hawkins,GRN,33153
+18782,Texas, Write-ins,WRI,12265
+19931,Utah,Donald Trump,REP,848863
+19932,Utah,Joe Biden,DEM,554028
+19933,Utah,Jo Jorgensen,LIB,37613
+19934,Utah,Kanye West,IND,7043
+19935,Utah,Howie Hawkins,GRN,4962
+19936,Utah,Don Blankenship,CST,5474
+19937,Utah,Gloria La Riva,PSL,1141
+19938,Utah,Joe McHugh,UNA,2189
+19939,Utah,Brock Pierce,IND,2567
+19940,Utah, Write-ins,WRI,0
+20194,Vermont,Joe Biden,DEM,242841
+20195,Vermont,Donald Trump,REP,112591
+20196,Vermont,Jo Jorgensen,LIB,3598
+20197,Vermont,Howie Hawkins,GRN,1307
+20198,Vermont, Write-ins,WRI,2269
+20199,Vermont,Kanye West,IND,1398
+20200,Vermont,Don Blankenship,CST,208
+20201,Vermont,Christopher LaFontaine,IND,839
+20202,Vermont,Keith McCormic,BMP,127
+20203,Vermont,Brooke Paige,GOP,1168
+20204,Vermont,Jerome Segal,BAR,65
+20205,Vermont,Gary Swing,BFP,143
+20206,Vermont,Brian Carroll,ASP,209
+20207,Vermont,Phil Collins,PRO,137
+20208,Vermont,Rocky De La Fuente,ALI,48
+20209,Vermont,Richard Duncan,IND,213
+20210,Vermont,Blake Huber,APV,57
+20211,Vermont,Alyson Kennedy,SWP,186
+20212,Vermont,Kyle Kopitke,IAP,57
+20213,Vermont,Gloria La Riva,PSL,169
+20214,Vermont,Brock Pierce,IND,101
+20215,Vermont,Zachary Scalf,IND,30
+25606,Virginia,Donald Trump,REP,1962708
+25607,Virginia,Joe Biden,DEM,2413317
+25608,Virginia,Jo Jorgensen,LIB,65023
+25645,Virginia, Write-ins,WRI,1550
+26021,Washington,Donald Trump,REP,1572345
+26022,Washington,Joe Biden,DEM,2356584
+26023,Washington,Jo Jorgensen,LIB,79439
+26024,Washington,Howie Hawkins,GRN,18022
+26025,Washington,Gloria La Riva,PSL,4776
+26026,Washington,Alyson Kennedy,SWP,2446
+26132,Washington, Write-ins,WRI,162
+26256,West Virginia,Donald Trump,REP,544826
+26257,West Virginia,Joe Biden,DEM,235657
+26258,West Virginia,Jo Jorgensen,LIB,10669
+26259,West Virginia,Howie Hawkins,GRN,2595
+26324,West Virginia, Write-ins,WRI,155
+26480,Wisconsin,Donald Trump,REP,1610073
+26481,Wisconsin,Joe Biden,DEM,1630619
+26482,Wisconsin,Jo Jorgensen,LIB,38455
+26483,Wisconsin,Don Blankenship,CST,5149
+26484,Wisconsin, Write-ins,WRI,7616
+26485,Wisconsin,Brian Carroll,ASP,5262
+26912,Wyoming,Joe Biden,DEM,73491
+26913,Wyoming,Donald Trump,REP,193559
+26914,Wyoming,Jo Jorgensen,LIB,5768
+26915,Wyoming,Brock Pierce,IND,2208
+26916,Wyoming, Write-ins,WRI,1739
+27027,Alabama,Donald Trump,REP,1434159
+27028,Alabama,Joe Biden,DEM,843473
+27029,Alabama,Jo Jorgensen,LIB,24994
+27030,Alabama, Write-ins,WRI,7274
+27295,Alaska,Donald Trump,REP,179080
+27296,Alaska,Joe Biden,DEM,143037
+27297,Alaska,Jo Jorgensen,LIB,8151
+27298,Alaska,Jesse Ventura,GRN,2451
+27299,Alaska,Don Blankenship,CST,1025
+27300,Alaska,Brock Pierce,IND,756
+27301,Alaska,Rocky De La Fuente,ALI,289
+27575,Arkansas,Donald Trump,REP,758183
+27576,Arkansas,Joe Biden,DEM,419258
+27577,Arkansas,Jo Jorgensen,LIB,13086
+27578,Arkansas,Phil Collins,PRO,2796
+27579,Arkansas,Howie Hawkins,GRN,2959
+27580,Arkansas,Kanye West,IND,4084
+27581,Arkansas,Don Blankenship,CST,2103
+27582,Arkansas,Brian Carroll,ASP,1706
+27583,Arkansas,Rocky De La Fuente,ALI,1315
+27584,Arkansas,Connie Gammon,IND,1470
+27585,Arkansas,Gloria La Riva,PSL,1325
+27586,Arkansas,John Richard Myers,LLP,1367
+27587,Arkansas,Brock Pierce,IND,2141
+28550,California,Joe Biden,DEM,10734181
+28551,California,Donald Trump,REP,5727342
+28552,California,Jo Jorgensen,LIB,178776
+28553,California,Howie Hawkins,GRN,77382
+28554,California,Rocky De La Fuente,ALI,56447
+28555,California,Gloria La Riva,PSL,47960
+28616,California, Write-ins,WRI,55
+28902,Colorado,Joe Biden,DEM,1803419
+28903,Colorado,Donald Trump,REP,1363551
+28904,Colorado,Jo Jorgensen,LIB,52394
+28905,Colorado,Howie Hawkins,GRN,8972
+28906,Colorado,Kanye West,IND,8071
+28907,Colorado,Don Blankenship,CST,5057
+28908,Colorado,Mark Charles,IND,2005
+28909,Colorado,Brian Carroll,ASP,2511
+28910,Colorado,Dario Hunter,PRG,379
+28911,Colorado,Phil Collins,PRO,566
+28912,Colorado,Bill Hammons,UTY,2728
+28913,Colorado,Joe McHugh,UNA,613
+28914,Colorado,Rocky De La Fuente,ALI,637
+28915,Colorado,Gloria La Riva,PSL,1034
+28916,Colorado,Blake Huber,APV,354
+28917,Colorado,Princess Jacob-Fambro,UNA,495
+28918,Colorado,Joseph Kishore,SEP,196
+28919,Colorado,Kyle Kopitke,IAP,761
+28920,Colorado,Alyson Kennedy,SWP,354
+28921,Colorado,Brock Pierce,IND,572
+28922,Colorado,Jordan Scott,UNA,175
+29280,Colorado, Write-ins,WRI,0
+30248,Connecticut,Joe Biden,DEM,1079174
+30249,Connecticut,Donald Trump,REP,714185
+30250,Connecticut,Jo Jorgensen,LIB,20392
+30251,Connecticut,Howie Hawkins,GRN,7512
+30252,Connecticut, Write-ins,WRI,626
+31093,Arizona,Donald Trump,REP,1661475
+31094,Arizona,Joe Biden,DEM,1671491
+31095,Arizona,Jo Jorgensen,LIB,51455
+31102,Arizona, Write-ins,WRI,551
